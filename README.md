@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, I'm Rob! 👨‍💻
+# 👋 Hi, I'm Rob! 👨‍💻
 
 Engenheiro de Controle e Automação em transição para desenvolvedor Java, apaixonado por tecnologia e resolução de desafios.
 
