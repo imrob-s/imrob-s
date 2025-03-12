@@ -20,9 +20,9 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 Atualmente estou trabalhando: **💻 como Desenvolvedor Java com sustentações e melhorias de um ERP para o setor supermercadista.**
-- 🌱 Atualmente estou estudando: **📚 Pós-Graduação em Engenharia de Software**
+- 🌱 Atualmente estou estudando: **📚 SGBD com PostgreSQL**
 - 💬 Pergunte-me sobre: **💡 Java, Java Swing, Spring Boot, SQL, API RESTful e Automação.**
-- ⚡ Fato curioso: **🎢 Fiz uma transição de carreira de Egenheiro de Controle e Automação para Desenvolvedor Java, porém continuo amando as duas profissões. 😍**
+- ⚡ Fato curioso: **🎢 Fiz uma transição de carreira de Engenheiro de Controle e Automação para Desenvolvedor Java, porém atualmente estou dedicando todos os meus estudos para a area de desenvolvedor e engenharia de software, mas continuo amando as duas profissões. 😍**
 
  **<h3 align="left">Skills</h3>**
 
